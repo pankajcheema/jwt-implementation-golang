@@ -1,0 +1,5 @@
+{
+  "PrivateKeyPath": "/home/pankaj/go/src/api.jwt.auth/settings/keys/private_key",
+  "PublicKeyPath": "/home/pankaj/go/src/api.jwt.auth/settings/keys/public_key.pub",
+  "JWTExpirationDelta": 72
+}
